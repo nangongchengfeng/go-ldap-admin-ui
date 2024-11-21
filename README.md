@@ -35,16 +35,16 @@
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
 
+
 ## 🏊 在线体验
 
 提供在线体验地址如下：
 
-|     分类      |                                           地址                                           |          用户名           | 密码   |
-| :-----------: | :--------------------------------------------------------------------------------------: | :-----------------------: | ------ |
-| go-ldap-admin |       [http://demo-go-ldap-admin.eryajf.net](http://demo-go-ldap-admin.eryajf.net)       |           admin           | 123456 |
-| phpLdapAdmin  | [http://demo-go-ldap-admin.eryajf.net:8091/](http://demo-go-ldap-admin.eryajf.net:8091/) | cn=admin,dc=eryajf,dc=net | 123456 |
+- 地址：[http://61.171.114.86:8888](http://61.171.114.86:8888)
+- 登陆信息：admin/123456
 
-在线环境可能不稳，如果遇到访问异常，或者数据错乱，请联系我进行修复。
+> 在线环境可能不稳，如果遇到访问异常，或者数据错乱，请联系我进行修复。请勿填写个人敏感信息。
+
 
 **页面功能概览：**
 
@@ -136,25 +136,25 @@
         </a>
     </td>
     <td align="center">
+        <a href="https://github.com/nangongchengfeng">
+            <img src="https://avatars.githubusercontent.com/u/46562911?v=4" width="100;" alt="nangongchengfeng"/>
+            <br />
+            <sub><b>南宫乘风</b></sub>
+        </a>
+    </td>
+    <td align="center">
         <a href="https://github.com/nnsay">
             <img src="https://avatars.githubusercontent.com/u/14331919?v=4" width="100;" alt="nnsay"/>
             <br />
             <sub><b>Jimmy Wang</b></sub>
         </a>
-    </td>
+    </td></tr>
+<tr>
     <td align="center">
         <a href="https://github.com/Sdaiyan">
             <img src="https://avatars.githubusercontent.com/u/53208364?v=4" width="100;" alt="Sdaiyan"/>
             <br />
             <sub><b>Sdaiyan</b></sub>
-        </a>
-    </td></tr>
-<tr>
-    <td align="center">
-        <a href="https://github.com/nangongchengfeng">
-            <img src="https://avatars.githubusercontent.com/u/46562911?v=4" width="100;" alt="nangongchengfeng"/>
-            <br />
-            <sub><b>南宫乘风</b></sub>
         </a>
     </td></tr>
 </table>
